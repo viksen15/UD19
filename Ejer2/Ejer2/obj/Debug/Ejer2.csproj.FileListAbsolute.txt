@@ -1,0 +1,10 @@
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\bin\Debug\Ejer2.exe.config
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\bin\Debug\Ejer2.exe
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\bin\Debug\Ejer2.pdb
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.csprojAssemblyReference.cache
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.Form1.resources
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.Properties.Resources.resources
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.csproj.GenerateResource.cache
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.csproj.CoreCompileInputs.cache
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.exe
+C:\Users\viiksen\Documents\curso NET\UD19\Ejer2\Ejer2\obj\Debug\Ejer2.pdb
